@@ -6,6 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+. Evolving a weather app that provides real-time weather updates based on the user's location.
+ 
+. Implemented Bloc and design patterns to enhance state management and ensure a maintainable architecture.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
